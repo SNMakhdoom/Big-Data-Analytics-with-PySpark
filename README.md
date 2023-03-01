@@ -1,3 +1,3 @@
-# SparkMysql
+# Spark_Mysql
 Find out the useful insight in a Spotify data set, which has 3.4 million+ rows.
 Python script that uses the PySpark library to read data from a AWS MySQL RDS, perform data analysis and manipulation, and output the results. The script includes functions to group data by various attributes, such as artist, track name, and region, and to calculate metrics such as the number of unique countries streaming a track, the average number of streams per region, and the number of distinct tracks and artists by continent. The results are then printed to the console. Overall, the script seems to be designed for data analysis and insights into music streaming trends.
